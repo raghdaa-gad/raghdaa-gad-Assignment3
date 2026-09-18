@@ -15,7 +15,6 @@ LeetCode Profile: https://leetcode.com/u/raghdaa-gad/
 
 }*/
 /*
-
 // Test 1
 int[] nums1 = { 4, 1, 2, 1, 2 };
 Console.WriteLine($"Single number: {FindSingleNumber(nums1)}");
