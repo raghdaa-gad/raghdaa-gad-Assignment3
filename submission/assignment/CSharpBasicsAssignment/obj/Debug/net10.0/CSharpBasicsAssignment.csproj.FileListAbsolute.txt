@@ -1,0 +1,15 @@
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.exe
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.deps.json
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.runtimeconfig.json
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.dll
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\bin\Debug\net10.0\CSharpBasicsAssignment.pdb
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfoInputs.cache
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.AssemblyInfo.cs
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.sourcelink.json
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.dll
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\refint\CSharpBasicsAssignment.dll
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.pdb
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\CSharpBasicsAssignment.genruntimeconfig.cache
+C:\Users\raghd\raghdaa-gad-Assignment3\submission\assignment\CSharpBasicsAssignment\obj\Debug\net10.0\ref\CSharpBasicsAssignment.dll
